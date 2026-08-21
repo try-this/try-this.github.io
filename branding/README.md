@@ -8,7 +8,7 @@ Public brand assets for **Unifying Systems LLC**. Served via GitHub Pages at
 | File | What it is | Direct link |
 |------|------------|-------------|
 | `us_lockup.png` | Primary logo — gradient "un" lockup, transparent background (720×270). Used live in Mark's email signature. | https://try-this.github.io/branding/us_lockup.png |
-| `UnifyingSystems_Website_Suite_2026-08-20.zip` | Complete website artifact suite (2.3 MB) — everything a developer needs to wire up favicons, social cards, and logos. | https://try-this.github.io/branding/UnifyingSystems_Website_Suite_2026-08-20.zip |
+| `UnifyingSystems_WebsiteArtifacts_cleaned.zip` | Complete website artifact suite (2.1 MB) — everything a developer needs to wire up favicons, social cards, and logos. Edge-cleaned (halo removed around the mark); drop-in. | https://try-this.github.io/branding/UnifyingSystems_WebsiteArtifacts_cleaned.zip |
 
 ## What's inside the website suite zip
 
